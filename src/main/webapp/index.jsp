@@ -1,5 +1,7 @@
+<%@ page import="java.util.ArrayList"%>
+
 <html>
 <body>
-<h2>Hello World!</h2>
+<%@ include file="header.jsp"  %>
 </body>
 </html>
